@@ -8,7 +8,7 @@ El objetivo principal es documentar mi aprendizaje, experimentar con técnicas, 
 
 Cada carpeta contiene un proyecto independiente con su propio cuaderno, código fuente o documentación asociada.
 
-- `InsurancePremiumCalculator/`  
+- `CálculoPrimasSeguros/`  
   Cálculo de primas de seguros a partir de modelos probabilísticos y factores de riesgo.
 
 - `SQLQueries/`  
@@ -17,8 +17,8 @@ Cada carpeta contiene un proyecto independiente con su propio cuaderno, código 
 - `BlackScholesOptions/`  
   Simulación y cálculo de precios de opciones europeas utilizando el esquema de volatilidad de Black-Scholes.
 
-- `CarInsuranceTechnicalDoc/`  
-  Documentación técnica elaborada para productos de seguros de automóvil (formato PDF).
+- `DocumentoTécnicoSegurosAutos/`  
+  Documentación técnica elaborada para productos de seguros de automóvil.
 
 - `TexasHoldemPoker/`  
   Estudio de caso sobre probabilidades en el juego Texas Hold'em utilizando simulación Monte Carlo.
