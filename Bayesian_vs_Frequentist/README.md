@@ -4,6 +4,8 @@ Este proyecto explora las diferencias entre los enfoques bayesiano y frecuentist
 
 **Nota:** Aunque esta sección del README está redactada en español, el código y los comentarios del notebook están completamente en inglés. Esto se hizo intencionalmente como recurso de práctica para entornos profesionales o bilingües.
 
+También se incluye un resumen completo en formato LaTeX dentro del archivo `ab_testing_plain_summary.tex`, redactado en lenguaje claro para todo público, incluyendo una explicación paso a paso y referencias visuales.
+
 ## Estructura del Proyecto
 
 ```
@@ -13,7 +15,9 @@ bayes_vs_frequentist_ab_test/
 ├── notebooks/
 │   └── Bayesian.ipynb
 ├── figures/
-│   └── credible_vs_confidence.png
+│   ├── credible_vs_confidence.png
+│   └── difference_posterior.png
+├── ab_testing_plain_summary.tex
 ├── README.md
 └── requirements.txt
 ```
@@ -36,6 +40,8 @@ The notebook walks through:
 - Confidence intervals (frequentist) vs. credible intervals (Bayesian)
 - Hypothesis testing vs. posterior probability comparison
 - Decision-making using expected utility theory
+
+A LaTeX document titled `ab_testing_plain_summary.tex` is included as a clear-language summary of the notebook's logic, visual references, and key conclusions.
 
 ## Tools Used
 
