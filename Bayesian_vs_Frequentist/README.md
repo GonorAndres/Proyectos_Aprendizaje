@@ -53,7 +53,7 @@ The notebook walks through:
 
 2. Open the notebook:
     ```
-    notebooks/Bayesian_Final_English_Clean.ipynb
+    notebooks/Bayesian.ipynb
     ```
 
 3. Run all cells to reproduce the full analysis.
