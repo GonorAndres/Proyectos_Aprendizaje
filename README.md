@@ -16,9 +16,12 @@ Cada carpeta contiene un proyecto independiente con su propio cuaderno, código 
 * `TexasPokerCaseStudy/`
   Estudio de caso sobre probabilidades en el juego Texas Hold'em utilizando simulación Monte Carlo.
 
+  * `TexasPokerCaseStudy/`
+  Estudio de caso sobre probabilidades en el juego Texas Hold'em utilizando simulación Monte Carlo.
+
 ## Objetivos
 
-* Consolidar conocimientos en probabilidad aplicada y finanzas.
+* Consolidar conocimientos en probabilidad, estadística y la herramientas que vaya adquiriendo.
 * Desarrollar habilidades prácticas en programación (Python, SQL, R).
 * Construir herramientas exploratorias y visuales.
 * Documentar proyectos técnicos.
