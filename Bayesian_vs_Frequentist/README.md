@@ -4,12 +4,12 @@ Este proyecto explora las diferencias entre los enfoques bayesiano y frecuentist
 
 **Nota:** Aunque esta sección del README está redactada en español, el código y los comentarios del notebook están completamente en inglés. Esto se hizo intencionalmente como recurso de práctica para entornos profesionales o bilingües.
 
-También se incluye un resumen completo en formato LaTeX dentro del archivo `ab_testing_plain_summary.tex`, redactado en lenguaje claro para todo público, incluyendo una explicación paso a paso y referencias visuales.
+También se incluye un resumen completo en formato LaTeX dentro del archivo `ab_testing_plain_summary.pdf`, redactado en lenguaje claro para todo público, incluyendo una explicación paso a paso y referencias visuales.
 
 ## Estructura del Proyecto
 
 ```
-bayes_vs_frequentist_ab_test/
+bayes_vs_frequentist_ab_testing/
 ├── data/
 │   └── conversions.csv
 ├── notebooks/
@@ -17,7 +17,7 @@ bayes_vs_frequentist_ab_test/
 ├── figures/
 │   ├── credible_vs_confidence.png
 │   └── difference_posterior.png
-├── ab_testing_plain_summary.tex
+├── ab_testing_plain_summary.pdf
 ├── README.md
 └── requirements.txt
 ```
