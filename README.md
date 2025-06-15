@@ -16,8 +16,8 @@ Cada carpeta contiene un proyecto independiente con su propio cuaderno, código 
 * `TexasPokerCaseStudy/`
   Estudio de caso sobre probabilidades en el juego Texas Hold'em utilizando simulación Monte Carlo.
 
-  * `TexasPokerCaseStudy/`
-  Estudio de caso sobre probabilidades en el juego Texas Hold'em utilizando simulación Monte Carlo.
+* `Bayesian_vs_Frequentist/`
+  Un caso especial donde se muestra las diferencias ante el análisis de incertidumbre usando estadística bayesiana, comparandola con el enfoque clasico.
 
 ## Objetivos
 
