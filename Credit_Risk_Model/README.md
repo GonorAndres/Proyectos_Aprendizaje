@@ -63,16 +63,12 @@ Este proyecto desarrolla un **scorecard interpretable de riesgo crediticio** uti
 - **Transformaciones**:
     - `dti` = debt-to-income ratio
     - `log_person_income` = log₁₀(ingresos)
-    - Interacciones: `loan_grade × log_person_income`
 
 
 ### 3. Modelado GLM
 
-- **Dos enfoques paralelos**:
-    - Escala original: interpretabilidad directa
-    - Z-escalado: preparado para regularización
 - **Selección de variables**: p-valor < 0.05
-- **Validación**: Hold-out 75/25 estratificado
+- **Validación**: Hold-out 80/20 estratificado
 
 
 ### 4. Optimización de Umbral
